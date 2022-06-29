@@ -1,5 +1,4 @@
-class Fib{   
-{    
+  
  System.out.print("Fibonacci Series");   
     
 }
